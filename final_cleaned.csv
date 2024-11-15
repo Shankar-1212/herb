@@ -1,0 +1,51 @@
+Doctor ID,Name,Specialization,Experience,Location,Contact Information,Availability,Consultation Fee
+D001,Dr. Veer Verma,"['Fibromyalgia', 'Childhood Asthma', 'Irritable Bowel Syndrome', 'Chronic Gastritis']",24,Bangalore,+91 8765432109,8 AM - 4 PM,INR 1320
+D002,Dr. Rhea Patel,"['Anal Fistula', 'Anaemia']",20,Bangalore,+91 6543210987,10 AM - 6 PM,INR 1404
+D003,Dr. Sanya Saxena,"['Chest Pain', 'Liver Cirrhosis', 'Odontalgia - Toothache', 'Cerebral Stroke']",16,Pune,+91 9876543210,11 AM - 7 PM,INR 1308
+D004,Dr. Suman Joshi,"['Down Syndrome', 'Pneumonia', 'Cervical Spondylosis', 'Tourette Syndrome', 'Nephrotic Syndrome']",15,Chennai,+91 9876543210,9 AM - 5 PM,INR 350
+D005,Dr. Tanay Roy,"['Acne', 'Dyshidrotic Eczema']",17,Hyderabad,+91 5432109876,9 AM - 5 PM,INR 1460
+D006,Dr. Sameer Iyer,"['Sinusitis', 'Ischemic Heart Disease', 'Diabetes Mellitus']",19,Hyderabad,+91 7654321098,9:30 AM - 5:30 PM,INR 1396
+D007,Dr. Lavanya Kaul,"['Juvenile Rheumatoid Arthritis (JRA)', 'Atrial Fibrillation', 'Dyspepsia', 'Osteoporosis', 'Herpes Zoster']",28,Chennai,+91 5432109876,10 AM - 6 PM,INR 1095
+D008,Dr. Nidhi Mahajan,"['Dental Black Triangle', 'Sleep Apnea', 'Agoraphobia', 'Bell's Palsy', 'Dizziness']",10,Bangalore,+91 6543210987,8 AM - 4 PM,INR 1475
+D009,Dr. Sanya Saxena,"['Dizziness', 'Role of Ayurveda in Treating HIV', 'Edema', 'Gonorrhea', 'Sialadenitis and Sialadenosis']",8,Hyderabad,+91 9876543210,10 AM - 6 PM,INR 1394
+D010,Dr. Manish Das,"['Sacroiliitis', 'Scleroderma', 'Gonorrhea', 'Sleep Apnea', 'Fatty Liver']",30,Mumbai,+91 7654321098,9:30 AM - 5:30 PM,INR 585
+D011,Dr. Sana Chaudhary,"['Mixed Receptive-Expressive Language Disorder', 'High Cholesterol Levels', 'Amenorrhea']",6,Mumbai,+91 6543210987,9:30 AM - 5:30 PM,INR 501
+D012,Dr. Priyanka Yadav,"['Leukocytoclastic Vasculitis (LCV)', 'Gonorrhea', 'Varicose Veins']",14,Bangalore,+91 5432109876,11 AM - 7 PM,INR 832
+D013,Dr. Gaurav Chopra,"['Endometriosis', 'Asthma', 'Cervical Dystonia', 'Livedoid Vasculopathy', 'Vestibular Hypofunction']",22,Hyderabad,+91 5432109876,10 AM - 6 PM,INR 1311
+D014,Dr. Vishal Chauhan,"['Ascites', 'Bronchitis', 'Down Syndrome', 'Hair Loss']",9,Pune,+91 7654321098,11 AM - 7 PM,INR 600
+D015,Dr. Rhea Patel,"['Heartburn', 'Primary Polycythemia Vera']",12,Delhi,+91 6543210987,9 AM - 5 PM,INR 735
+D016,Dr. Nidhi Mahajan,"['Candidiasis', 'Role of Ayurveda in Treating HIV', 'Sialadenitis and Sialadenosis', 'Urticaria', 'Back Pain']",29,Delhi,+91 6543210987,8 AM - 4 PM,INR 1050
+D017,Dr. Sana Chaudhary,"['Syphilis', 'Nausea', 'Dandruff']",27,Bangalore,+91 7654321098,10 AM - 6 PM,INR 1152
+D018,Dr. Vinay Kulkarni,"['Typhoid', 'Irritable Bowel Syndrome', 'Ovarian Cysts']",28,Bangalore,+91 8765432109,9:30 AM - 5:30 PM,INR 772
+D019,Dr. Sameer Iyer,"['Dementia', 'Urticaria']",10,Chennai,+91 6543210987,10 AM - 6 PM,INR 1105
+D020,Dr. Rajat Singh,"['Hearing Loss', 'Allergy', 'Headaches', 'Post Polio Syndrome']",14,Chennai,+91 5432109876,11 AM - 7 PM,INR 1125
+D021,Dr. Isha Pradhan,"['Constipation', 'Dyspepsia', 'Major Depressive Disorder', 'Polymyositis', 'Bell's Palsy']",29,Chennai,+91 8765432109,10 AM - 6 PM,INR 675
+D022,Dr. Akash Tiwari,"['Post Traumatic Stress Disorder', 'Fibromyalgia']",13,Delhi,+91 6543210987,10 AM - 6 PM,INR 778
+D023,Dr. Suman Joshi,"['Sacroiliitis', 'Ascites']",16,Pune,+91 5432109876,11 AM - 7 PM,INR 1073
+D024,Dr. Maya Shetty,"['Ulcerative Colitis', 'Odontalgia – Toothache', 'Diaper Rash']",23,Pune,+91 5432109876,11 AM - 7 PM,INR 1161
+D025,Dr. Swara Ghosh,"['Dizziness', 'Back Pain', 'Frozen Shoulder']",30,Bangalore,+91 7654321098,9 AM - 5 PM,INR 350
+D026,Dr. Mohit Bajaj,"['Headaches', 'Hepatitis B', 'Bartholin Gland Cancer', 'Indigestion']",5,Delhi,+91 6543210987,8 AM - 4 PM,INR 999
+D027,Dr. Soham Rao,"['Blood Clotting', 'Chronic Gastritis', 'Chest Pain']",16,Hyderabad,+91 5432109876,9 AM - 5 PM,INR 478
+D028,Dr. Arjun Nair,"['Lichen Amyloidosis', 'Autism']",11,Pune,+91 8765432109,9:30 AM - 5:30 PM,INR 576
+D029,Dr. Ruchi Mathur,"['Neurodermatitis', 'Primary Sclerosing Cholangitis', 'Stress']",27,Hyderabad,+91 6543210987,10 AM - 6 PM,INR 808
+D030,Dr. Gaurav Chopra,"['Down Syndrome', 'Anemia']",18,Delhi,+91 9876543210,9 AM - 5 PM,INR 774
+D031,Dr. Sneha Khanna,"['Sarcoidosis', 'Autism']",14,Chennai,+91 7654321098,10 AM - 6 PM,INR 1046
+D032,Dr. Ishaan Mehta,"['Bell's Palsy', 'Autism', 'Lichen Amyloidosis', 'Swollen Lymph Nodes']",22,Chennai,+91 8765432109,9 AM - 5 PM,INR 525
+D033,Dr. Aisha Menon,"['Parkinson's Disease', 'Constipation', 'Human Papillomavirus Infection (HPV)', 'Leukocytoclastic Vasculitis (LCV)']",20,Mumbai,+91 8765432109,10 AM - 6 PM,INR 495
+D034,Dr. Manish Das,"['Psoriasis', 'Chronic Obstructive Pulmonary Disease (COPD)', 'Henoch-Schonlein Purpura (HSP)', 'Swollen Lymph Nodes', 'Anemia']",11,Delhi,+91 5432109876,8 AM - 4 PM,INR 1495
+D035,Dr. Soham Rao,"['Autoimmune Disorder', 'Menstrual Irregularities and Its Solution with Ayurveda', 'Hypocortisolism']",21,Chennai,+91 9876543210,9 AM - 5 PM,INR 680
+D036,Dr. Aarav Sharma,"['Atrial Fibrillation', 'Dandruff']",12,Pune,+91 9876543210,10 AM - 6 PM,INR 320
+D037,Dr. Mohit Bajaj,"['Blood Disorders', 'Chronic Fatigue Syndrome', 'Liver Cirrhosis']",22,Delhi,+91 8765432109,11 AM - 7 PM,INR 548
+D038,Dr. Sameer Iyer,"['Hypertension / High Blood Pressure', 'Gallstones']",30,Pune,+91 8765432109,9 AM - 5 PM,INR 1479
+D039,Dr. Arjun Nair,"['Malaria', 'Piles']",8,Mumbai,+91 5432109876,10 AM - 6 PM,INR 497
+D040,Dr. Nidhi Mahajan,"['Interstitial Cystitis', 'Typhoid', 'Diarrhea', 'Pneumonia', 'Arthritis']",15,Mumbai,+91 9876543210,9:30 AM - 5:30 PM,INR 734
+D041,Dr. Mira Bhatt,"['Leukemia', 'Ascites', 'Prolactinoma', 'Blood Clotting', 'Sciatica (Sciatic Nerve Pain)']",5,Delhi,+91 9876543210,11 AM - 7 PM,INR 672
+D042,Dr. Nisha Paul,"['Premenstrual Syndrome (PMS)', 'Hypothyroidism', 'Dyspepsia', 'Anorexia Nervosa', 'Diabetes Mellitus']",22,Mumbai,+91 8765432109,10 AM - 6 PM,INR 950
+D043,Dr. Soham Rao,"['Eczema', 'Livedoid Vasculopathy', 'Hernia', 'Genital Herpes', 'Premenstrual Syndrome (PMS)']",5,Hyderabad,+91 9876543210,8 AM - 4 PM,INR 395
+D044,Dr. Ruchi Mathur,"['Interstitial Cystitis', 'Ovarian Cysts', 'Tonsillitis', 'Agoraphobia']",18,Mumbai,+91 6543210987,8 AM - 4 PM,INR 1240
+D045,Dr. Aditya Malhotra,"['Diaper Rash', 'Congestive Heart Failure (CHF)', 'Osteoporosis', 'Colles Fracture (Broken Wrist)']",11,Pune,+91 5432109876,9:30 AM - 5:30 PM,INR 1433
+D046,Dr. Ruchi Mathur,"['Kidney Disease', 'Gangrene']",12,Bangalore,+91 8765432109,9 AM - 5 PM,INR 644
+D047,Dr. Arjun Nair,"['Varicose Veins', 'Hernia', 'Dengue Fever']",29,Mumbai,+91 7654321098,9:30 AM - 5:30 PM,INR 710
+D048,Dr. Nisha Paul,"['Gallstones', 'Giardiasis', 'Oligozoospermia']",27,Delhi,+91 6543210987,8 AM - 4 PM,INR 995
+D049,Dr. Priya Saxena,"['Liver Cirrhosis', 'Chronic Kidney Disease']",26,Delhi,+91 9876543210,11 AM - 7 PM,INR 1175
+D050,Dr. Sanya Saxena,"['Ulcerative Colitis', 'Major Depressive Disorder']",7,Bangalore,+91 9876543210,11 AM - 7 PM,INR 1169
